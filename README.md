@@ -1,16 +1,21 @@
-### Hi there 👋
+### Ben Kimim
+- :computer:Celal Bayar Üniversitesi Matematik Bölümü 4. sınıf öğrencisiyim. 
+- :computer:Front End ve Back End eğitimi alıyorum.
+- :computer:Back End Developer olmak için çabalıyorum.
+- :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
+- 📫 Bana ulaşmak isterseniz **berke-6701@outlook.com** adresini kullanabilirsiniz. 
 
-<!--
-**BerkeAKAR/BerkeAKAR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center"> 💻Yazılım Geliştirici</h1>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <h2 align="center">Sosyal Medya Hesaplarım </h2>
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/berkeakarrr/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/berkeakar/)
+
+
+<h2 align="center">Dil & Framework</h2>
+
+![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,js,react,python,django)
+
+
