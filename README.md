@@ -1,5 +1,5 @@
 ### Ben Kimim
-- :computer:Celal Bayar Üniversitesi Matematik Bölümü 4. sınıf öğrencisiyim. 
+- :computer:Celal Bayar Üniversitesi Matematik Bölümü mezunuyum. 
 - :computer:Front End ve Back End eğitimi alıyorum.
 - :computer:Back End Developer olmak için çabalıyorum.
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
