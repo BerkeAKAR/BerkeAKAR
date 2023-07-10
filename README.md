@@ -3,7 +3,7 @@
 - :computer:Front End ve Back End eğitimi alıyorum.
 - :computer:Back End Developer olmak için çabalıyorum.
 - :computer:Kendimi her alanda geliştirmeye çalışıyorum. 
-- 📫 Bana ulaşmak isterseniz **berke-6701@outlook.com** adresini kullanabilirsiniz. 
+- 📫 Bana ulaşmak isterseniz **berke.6701@gmail.com** adresini kullanabilirsiniz. 
 
 <h1 align="center"> 💻Yazılım Geliştirici</h1>
 
